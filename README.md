@@ -2,7 +2,7 @@
 
   <!-- Header Banner / Profile Avatar -->
   <!-- Replace the image URL below with your generated avatar image link or banner link -->
-  <img src="https://raw.githubusercontent.com/shubhammishra/shubhammishra/main/profile-pic.png" alt="Shubham Mishra Profile" width="180" style="border-radius: 50%;" />
+  <img src="Github img.png" alt="Shubham Mishra Profile" width="100%" style="border-radius: 50%;" />
 
   # 👋 Hi, I'm Shubham Mishra
   ### 🚀 Software Developer | Problem Solver | Tech Enthusiast
