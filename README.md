@@ -64,7 +64,7 @@
 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shubhammish2291&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shubhammish2291&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shubhammish2291&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Top Languages" width="34.5%" />
 
 </div>
 
